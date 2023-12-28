@@ -22520,7 +22520,7 @@ if(r==null)r=1
 return new A.uE(s,r,A.v8(a),A.dB(a),null,A.b3())},
 S5(a){return a!==""?a+".":a},
 an3(a){switch(a){case 1:return"Este comando te permite crear una carpeta en tu directorio www para almacenar tu p\xe1gina web"
-case 2:return"Cambia los permisos de administrador de la carpeta previamente creada"
+case 2:return"Cambia owner de forma recursiva hacia Apache 2 www-data"
 case 3:return"Crea un archivo .html basico para realizar una prueba de funcionamiento de la p\xe1gina"
 case 4:return"Genera un archivo .conf en el directorio sites-available que determina que la p\xe1gina esta disponible"
 case 5:return"Habilita la p\xe1gina a todo publico"}return""}},J={
